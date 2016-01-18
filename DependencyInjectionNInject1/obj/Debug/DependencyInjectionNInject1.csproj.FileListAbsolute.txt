@@ -1,0 +1,8 @@
+c:\users\main\documents\visual studio 2012\Projects\DependencyInjectionNInject1\DependencyInjectionNInject1\bin\Debug\DependencyInjectionNInject1.exe.config
+c:\users\main\documents\visual studio 2012\Projects\DependencyInjectionNInject1\DependencyInjectionNInject1\bin\Debug\DependencyInjectionNInject1.exe
+c:\users\main\documents\visual studio 2012\Projects\DependencyInjectionNInject1\DependencyInjectionNInject1\bin\Debug\DependencyInjectionNInject1.pdb
+c:\users\main\documents\visual studio 2012\Projects\DependencyInjectionNInject1\DependencyInjectionNInject1\bin\Debug\Ninject.dll
+c:\users\main\documents\visual studio 2012\Projects\DependencyInjectionNInject1\DependencyInjectionNInject1\bin\Debug\Ninject.xml
+c:\users\main\documents\visual studio 2012\Projects\DependencyInjectionNInject1\DependencyInjectionNInject1\obj\Debug\DependencyInjectionNInject1.exe
+c:\users\main\documents\visual studio 2012\Projects\DependencyInjectionNInject1\DependencyInjectionNInject1\obj\Debug\DependencyInjectionNInject1.pdb
+c:\users\main\documents\visual studio 2012\Projects\DependencyInjectionNInject1\DependencyInjectionNInject1\bin\Debug\Common.Logging.dll
